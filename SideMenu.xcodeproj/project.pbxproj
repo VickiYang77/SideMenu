@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		996DB3FD2AB4BF8500AA703B /* InfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 996DB3FC2AB4BF8500AA703B /* InfoViewController.swift */; };
 		99857AE12AB34682002A0E6B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99857AE02AB34682002A0E6B /* AppDelegate.swift */; };
 		99857AE32AB34682002A0E6B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99857AE22AB34682002A0E6B /* SceneDelegate.swift */; };
 		99857AE52AB34682002A0E6B /* ContainerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99857AE42AB34682002A0E6B /* ContainerViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		996DB3FC2AB4BF8500AA703B /* InfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoViewController.swift; sourceTree = "<group>"; };
 		99857ADD2AB34682002A0E6B /* SideMenu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SideMenu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		99857AE02AB34682002A0E6B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		99857AE22AB34682002A0E6B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 				99857AE42AB34682002A0E6B /* ContainerViewController.swift */,
 				99857AF52AB34B6F002A0E6B /* MenuViewController.swift */,
 				99857AF72AB34B8A002A0E6B /* HomeViewController.swift */,
+				996DB3FC2AB4BF8500AA703B /* InfoViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				996DB3FD2AB4BF8500AA703B /* InfoViewController.swift in Sources */,
 				99857AF82AB34B8A002A0E6B /* HomeViewController.swift in Sources */,
 				99857AE52AB34682002A0E6B /* ContainerViewController.swift in Sources */,
 				99857AE12AB34682002A0E6B /* AppDelegate.swift in Sources */,
